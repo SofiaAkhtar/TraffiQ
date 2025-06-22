@@ -1,2 +1,13 @@
-# TraffiQ
-AI-powered Streamlit application that performs smart traffic video analysis. It detects and classifies vehicles, estimates their speeds, and identifies helmet violations from uploaded video footage using YOLOv8
+---
+title: TraffiQ
+emoji: ⚡
+colorFrom: indigo
+colorTo: green
+sdk: streamlit
+sdk_version: 1.44.1
+app_file: app.py
+pinned: false
+short_description: Smart Traffic Analysis
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
